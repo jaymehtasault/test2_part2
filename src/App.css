@@ -1,0 +1,21 @@
+.hero-section {
+  background: url("https://picsum.photos/1600/600") no-repeat center center;
+  background-size: cover;
+  height: 90vh;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: lightgray !important;
+}
+
+.custom-btn {
+  background-color:red !important;
+  border-color: #ff6600 !important;
+  color: white !important;
+}
+
+.custom-btn:hover {
+  background-color: #e65c00 !important;
+  border-color: #e65c00 !important;
+}
